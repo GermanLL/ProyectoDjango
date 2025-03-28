@@ -2,6 +2,6 @@
 
 [![presentacion.jpg](https://i.postimg.cc/vmTQWK1n/presentacion.jpg)](https://postimg.cc/ns8bx0GV)
 
-<h2>Administración de Django<h2>
+<h3>Administración de Django<h3>
 <p>user: german</p>
-<p>passwprd:german25</p>
+<p>password: german25</p>
